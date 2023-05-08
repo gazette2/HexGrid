@@ -185,3 +185,4 @@ FakesAssemblies/
 
 # Jeff's additions
 doxygen/
+.vs

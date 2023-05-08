@@ -1,16 +1,16 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.HexGrid", "HexGrid\Barbar.HexGrid.csproj", "{730CE1A8-6F93-424D-AAF1-057182BC21EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barbar.HexGrid", "HexGrid\Barbar.HexGrid.csproj", "{730CE1A8-6F93-424D-AAF1-057182BC21EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.HexGridTest", "HexGridTest\Barbar.HexGridTest.csproj", "{5006EA84-39F5-4C19-8A98-8A2B7007B3D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barbar.HexGridTest", "HexGridTest\Barbar.HexGridTest.csproj", "{5006EA84-39F5-4C19-8A98-8A2B7007B3D8}"
 	ProjectSection(ProjectDependencies) = postProject
 		{730CE1A8-6F93-424D-AAF1-057182BC21EF} = {730CE1A8-6F93-424D-AAF1-057182BC21EF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.HexGridExample", "HexGridExample\Barbar.HexGridExample.csproj", "{508A6102-47E9-49BB-ABA6-8FEF7CAFCBEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barbar.HexGridExample", "HexGridExample\Barbar.HexGridExample.csproj", "{508A6102-47E9-49BB-ABA6-8FEF7CAFCBEA}"
 	ProjectSection(ProjectDependencies) = postProject
 		{730CE1A8-6F93-424D-AAF1-057182BC21EF} = {730CE1A8-6F93-424D-AAF1-057182BC21EF}
 	EndProjectSection

@@ -1,5 +1,4 @@
-﻿using System;
-using Barbar.HexGrid;
+﻿using Barbar.HexGrid;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
