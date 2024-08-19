@@ -1,12 +1,11 @@
 ﻿using System.Windows.Forms;
 
-namespace Barbar.HexGridExample
+namespace Barbar.HexGridExample;
+
+class Program
 {
-    class Program
+	static void Main( string[] args )
 	{
-		static void Main( string[] args )
-		{
-            Application.Run(new FormExample());
-		}
+		Application.Run(new FormExample());
 	}
 }

@@ -1,8 +1,7 @@
-﻿namespace Barbar.HexGrid
+﻿namespace Barbar.HexGrid;
+
+internal enum OrientationName
 {
-    internal enum OrientationName : int
-    {
-        PointyHexagons,
-        FlatHexagons
-    }
+	PointyHexagons,
+	FlatHexagons
 }

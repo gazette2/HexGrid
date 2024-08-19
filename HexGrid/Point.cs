@@ -1,13 +1,7 @@
-﻿namespace Barbar.HexGrid
+﻿namespace Barbar.HexGrid;
+
+public struct Point(double x, double y)
 {
-    public struct Point
-    {
-        public Point(double x, double y)
-        {
-            X = x;
-            Y = y;
-        }
-        public readonly double X;
-        public readonly double Y;
-    }
+	public readonly double X = x;
+	public readonly double Y = y;
 }
